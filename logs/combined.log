@@ -1,0 +1,151 @@
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-09-30T05:41:57.484Z"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","timestamp":"2025-09-30T05:41:57.487Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-09-30T05:43:35.359Z"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","timestamp":"2025-09-30T05:43:35.362Z"}
+{"ip":"::1","level":"info","message":"GET /api-docs","timestamp":"2025-09-30T05:43:46.021Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api-docs/","timestamp":"2025-09-30T05:43:46.031Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui.css","timestamp":"2025-09-30T05:43:46.089Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-bundle.js","timestamp":"2025-09-30T05:43:46.091Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","timestamp":"2025-09-30T05:43:46.097Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-init.js","timestamp":"2025-09-30T05:43:46.100Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /meta.json","timestamp":"2025-09-30T05:43:46.126Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /meta.json","timestamp":"2025-09-30T05:43:47.826Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api-docs/favicon-32x32.png","timestamp":"2025-09-30T05:43:47.878Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /","timestamp":"2025-09-30T05:48:24.285Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /meta.json","timestamp":"2025-09-30T05:48:25.552Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /meta.json","timestamp":"2025-09-30T05:48:25.568Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /favicon.ico","timestamp":"2025-09-30T05:48:25.570Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-09-30T05:49:45.099Z"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","timestamp":"2025-09-30T05:49:45.102Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-09-30T13:59:11.771Z"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","timestamp":"2025-09-30T13:59:11.775Z"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/register","timestamp":"2025-09-30T14:00:28.928Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-30T14:00:28.974Z"}
+{"level":"info","message":"User registered: lakshyakhandelwal647@gmail.com","timestamp":"2025-09-30T14:00:29.090Z"}
+{"ip":"::1","level":"info","message":"GET /api/v1/tasks","timestamp":"2025-09-30T14:00:29.100Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-30T14:00:29.141Z"}
+{"ip":"::1","level":"info","message":"POST /api/v1/tasks","timestamp":"2025-09-30T14:00:40.585Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Task created: 4 by user 3","timestamp":"2025-09-30T14:00:40.595Z"}
+{"ip":"::1","level":"info","message":"GET /api/v1/tasks","timestamp":"2025-09-30T14:00:40.599Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"POST /api/v1/tasks","timestamp":"2025-09-30T14:00:49.047Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Task created: 5 by user 3","timestamp":"2025-09-30T14:00:49.050Z"}
+{"ip":"::1","level":"info","message":"GET /api/v1/tasks","timestamp":"2025-09-30T14:00:49.055Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","timestamp":"2025-09-30T14:01:10.529Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"User logged in: lakshyakhandelwal647@gmail.com","timestamp":"2025-09-30T14:01:10.597Z"}
+{"ip":"::1","level":"info","message":"GET /api/v1/tasks","timestamp":"2025-09-30T14:01:10.605Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-30T14:01:10.649Z"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","timestamp":"2025-09-30T14:01:22.171Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"error","message":"Error: Invalid email or password","method":"POST","stack":"Error: Invalid email or password\n    at exports.login (D:\\primetrade\\task-management-api\\controllers\\auth.controller.js:102:13)","statusCode":401,"timestamp":"2025-09-30T14:01:22.235Z","url":"/api/v1/auth/login"}
+{"ip":"::1","level":"info","message":"GET /api-docs/","timestamp":"2025-09-30T14:02:03.942Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui.css","timestamp":"2025-09-30T14:02:03.993Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-bundle.js","timestamp":"2025-09-30T14:02:03.994Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-init.js","timestamp":"2025-09-30T14:02:03.998Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","timestamp":"2025-09-30T14:02:04.000Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api-docs/favicon-32x32.png","timestamp":"2025-09-30T14:02:05.368Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /meta.json","timestamp":"2025-09-30T14:02:05.385Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-09-30T14:02:35.659Z"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","timestamp":"2025-09-30T14:02:35.663Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-09-30T14:05:54.682Z"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","timestamp":"2025-09-30T14:05:54.685Z"}
+{"ip":"::1","level":"info","message":"GET /api-docs/","timestamp":"2025-09-30T14:06:09.332Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui.css","timestamp":"2025-09-30T14:06:09.415Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-bundle.js","timestamp":"2025-09-30T14:06:09.425Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","timestamp":"2025-09-30T14:06:09.432Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-init.js","timestamp":"2025-09-30T14:06:09.435Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /meta.json","timestamp":"2025-09-30T14:06:09.441Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /meta.json","timestamp":"2025-09-30T14:06:10.812Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/register","timestamp":"2025-09-30T14:06:40.719Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-30T14:06:40.761Z"}
+{"level":"info","message":"User registered: lakshyakhandelwal2901@gmail.com","timestamp":"2025-09-30T14:06:40.843Z"}
+{"ip":"::1","level":"info","message":"GET /api/v1/tasks","timestamp":"2025-09-30T14:06:40.855Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-30T14:06:40.958Z"}
+{"ip":"::1","level":"info","message":"POST /api/v1/tasks","timestamp":"2025-09-30T14:06:48.943Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Task created: 9 by user 4","timestamp":"2025-09-30T14:06:48.950Z"}
+{"ip":"::1","level":"info","message":"GET /api/v1/tasks","timestamp":"2025-09-30T14:06:48.956Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"POST /api/v1/tasks","timestamp":"2025-09-30T14:06:58.849Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Task created: 10 by user 4","timestamp":"2025-09-30T14:06:58.853Z"}
+{"ip":"::1","level":"info","message":"GET /api/v1/tasks","timestamp":"2025-09-30T14:06:58.857Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"POST /api/v1/tasks","timestamp":"2025-09-30T14:07:12.648Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-30T14:07:12.686Z"}
+{"level":"info","message":"Task created: 11 by user 4","timestamp":"2025-09-30T14:07:12.691Z"}
+{"ip":"::1","level":"info","message":"GET /api/v1/tasks","timestamp":"2025-09-30T14:07:12.695Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","timestamp":"2025-09-30T14:07:26.611Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"User logged in: lakshyakhandelwal2901@gmail.com","timestamp":"2025-09-30T14:07:26.675Z"}
+{"ip":"::1","level":"info","message":"GET /api/v1/tasks","timestamp":"2025-09-30T14:07:26.684Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","timestamp":"2025-09-30T14:07:33.741Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"error","message":"Error: Invalid email or password","method":"POST","stack":"Error: Invalid email or password\n    at exports.login (D:\\primetrade\\task-management-api\\controllers\\auth.controller.js:102:13)","statusCode":401,"timestamp":"2025-09-30T14:07:33.804Z","url":"/api/v1/auth/login"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","timestamp":"2025-09-30T14:16:42.580Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-30T14:16:42.620Z"}
+{"level":"error","message":"Error: Invalid email or password","method":"POST","stack":"Error: Invalid email or password\n    at exports.login (D:\\primetrade\\task-management-api\\controllers\\auth.controller.js:102:13)","statusCode":401,"timestamp":"2025-09-30T14:16:42.689Z","url":"/api/v1/auth/login"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/register","timestamp":"2025-09-30T14:17:21.666Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-30T14:17:21.706Z"}
+{"level":"info","message":"User registered: john@example.com","timestamp":"2025-09-30T14:17:21.781Z"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","timestamp":"2025-09-30T14:17:53.514Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-30T14:17:53.558Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2025-09-30T14:17:53.626Z"}
+{"ip":"::1","level":"info","message":"GET /api/v1/auth/profile","timestamp":"2025-09-30T14:18:18.168Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"error","message":"Error: No token provided. Please authenticate.","method":"GET","stack":"Error: No token provided. Please authenticate.\n    at exports.authenticate (D:\\primetrade\\task-management-api\\middleware\\auth.middleware.js:11:13)\n    at Layer.handle [as handle_request] (D:\\primetrade\\task-management-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\primetrade\\task-management-api\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (D:\\primetrade\\task-management-api\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (D:\\primetrade\\task-management-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\primetrade\\task-management-api\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (D:\\primetrade\\task-management-api\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\primetrade\\task-management-api\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (D:\\primetrade\\task-management-api\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (D:\\primetrade\\task-management-api\\node_modules\\express\\lib\\router\\index.js:47:12)","statusCode":401,"timestamp":"2025-09-30T14:18:18.168Z","url":"/api/v1/auth/profile"}
+{"ip":"::1","level":"info","message":"POST /api/v1/tasks","timestamp":"2025-09-30T14:18:47.098Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-30T14:18:47.140Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-30T14:18:47.176Z"}
+{"level":"info","message":"Task created: 12 by user 5","timestamp":"2025-09-30T14:18:47.182Z"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","timestamp":"2025-09-30T14:19:34.959Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-30T14:19:34.991Z"}
+{"level":"info","message":"User logged in: john@example.com","timestamp":"2025-09-30T14:19:35.057Z"}
+{"ip":"::1","level":"info","message":"GET /api/v1/tasks","timestamp":"2025-09-30T14:19:35.065Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-30T14:19:35.101Z"}
+{"ip":"::1","level":"info","message":"POST /api/v1/tasks","timestamp":"2025-09-30T14:19:50.522Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Task created: 13 by user 5","timestamp":"2025-09-30T14:19:50.528Z"}
+{"ip":"::1","level":"info","message":"GET /api/v1/tasks","timestamp":"2025-09-30T14:19:50.532Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/v1/tasks","timestamp":"2025-09-30T14:20:08.292Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-30T14:20:08.332Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-09-30T14:22:25.747Z"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","timestamp":"2025-09-30T14:22:25.750Z"}
+{"ip":"::1","level":"info","message":"GET /api-docs/","timestamp":"2025-09-30T14:22:43.870Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui.css","timestamp":"2025-09-30T14:22:43.974Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-bundle.js","timestamp":"2025-09-30T14:22:43.976Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","timestamp":"2025-09-30T14:22:43.982Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-init.js","timestamp":"2025-09-30T14:22:43.983Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /meta.json","timestamp":"2025-09-30T14:22:43.988Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /meta.json","timestamp":"2025-09-30T14:22:45.363Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/register","timestamp":"2025-09-30T14:23:49.749Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-30T14:23:49.794Z"}
+{"level":"info","message":"User registered: harsh@example.com","timestamp":"2025-09-30T14:23:49.866Z"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","timestamp":"2025-09-30T14:24:11.424Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"User logged in: harsh@example.com","timestamp":"2025-09-30T14:24:11.498Z"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","timestamp":"2025-09-30T14:25:31.401Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-30T14:25:31.438Z"}
+{"level":"info","message":"User logged in: harsh@example.com","timestamp":"2025-09-30T14:25:31.509Z"}
+{"ip":"::1","level":"info","message":"GET /api/v1/tasks","timestamp":"2025-09-30T14:25:31.520Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-30T14:25:31.567Z"}
+{"ip":"::1","level":"info","message":"POST /api/v1/tasks","timestamp":"2025-09-30T14:26:06.393Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-30T14:26:06.439Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-30T14:26:06.477Z"}
+{"level":"info","message":"Task created: 17 by user 6","timestamp":"2025-09-30T14:26:06.483Z"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","timestamp":"2025-09-30T14:26:32.864Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"User logged in: harsh@example.com","timestamp":"2025-09-30T14:26:32.930Z"}
+{"ip":"::1","level":"info","message":"GET /api/v1/tasks","timestamp":"2025-09-30T14:26:32.938Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"POST /api/v1/tasks","timestamp":"2025-09-30T14:26:49.113Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-30T14:26:49.150Z"}
+{"level":"info","message":"Task created: 18 by user 6","timestamp":"2025-09-30T14:26:49.154Z"}
+{"ip":"::1","level":"info","message":"GET /api/v1/tasks","timestamp":"2025-09-30T14:26:49.158Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api/v1/tasks","timestamp":"2025-09-30T14:27:17.508Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"POST /api/v1/auth/login","timestamp":"2025-09-30T14:28:22.432Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Database connected successfully","timestamp":"2025-09-30T14:28:22.469Z"}
+{"level":"error","message":"Error: Invalid email or password","method":"POST","stack":"Error: Invalid email or password\n    at exports.login (D:\\primetrade\\task-management-api\\controllers\\auth.controller.js:102:13)","statusCode":401,"timestamp":"2025-09-30T14:28:22.533Z","url":"/api/v1/auth/login"}
+{"ip":"::1","level":"info","message":"GET /","timestamp":"2025-09-30T14:29:27.520Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /meta.json","timestamp":"2025-09-30T14:29:28.707Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /meta.json","timestamp":"2025-09-30T14:29:28.725Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /favicon.ico","timestamp":"2025-09-30T14:29:28.727Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-09-30T14:29:32.060Z"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","timestamp":"2025-09-30T14:29:32.063Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-09-30T14:38:06.164Z"}
+{"level":"info","message":"API Documentation: http://localhost:5000/api-docs","timestamp":"2025-09-30T14:38:06.166Z"}
+{"ip":"::1","level":"info","message":"GET /api-docs/","timestamp":"2025-09-30T14:38:16.374Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui.css","timestamp":"2025-09-30T14:38:16.449Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-bundle.js","timestamp":"2025-09-30T14:38:16.459Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-standalone-preset.js","timestamp":"2025-09-30T14:38:16.465Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /api-docs/swagger-ui-init.js","timestamp":"2025-09-30T14:38:16.467Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /meta.json","timestamp":"2025-09-30T14:38:16.479Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /meta.json","timestamp":"2025-09-30T14:38:16.488Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"info","message":"GET /meta.json","timestamp":"2025-09-30T14:38:17.629Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
